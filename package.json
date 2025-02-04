@@ -1,0 +1,13 @@
+{
+  "dependencies": {
+    "firebase": "^11.2.0",
+    "firebase-tools": "^13.29.3"
+  },
+  "type": "module",
+  "devDependencies": {
+    "vite": "^6.0.11"
+  },
+  "scripts": {
+    "start": "vite"
+  }
+}
